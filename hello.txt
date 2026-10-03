@@ -1,1 +1,2 @@
 Hello Github!
+This is my software engineering lab 02
